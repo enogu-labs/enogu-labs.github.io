@@ -1,1 +1,1 @@
-# labs.enogu.net
+# labs.enogu.ink
